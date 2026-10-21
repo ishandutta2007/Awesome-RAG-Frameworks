@@ -1,6 +1,6 @@
 # Awesome-RAG-Frameworks
 
-# Top RAG Frameworks Ecosystem
+## Top RAG Frameworks Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Retrieval Abstractions, Typed Pipelines & Production RAG Orchestration*  
