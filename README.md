@@ -83,7 +83,7 @@ The following hosted platforms provide managed RAG pipelines, enterprise securit
 
 Curated list of production-grade open-source RAG projects, developer libraries, and workflow engines. 
 
-Each repository includes a live social star badge linking to its GitHub Stargazers page, sorted by **Star Count in descending order**:
+Each repository includes a live social Stars_Badge linking to its GitHub Stargazers page, sorted by **Stars_Count in descending order**:
 
 ### 1. [Dify](https://github.com/langgenius/dify) [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
 - 🏷️ **License:** Apache 2.0 | 💻 **Stack:** Python, TypeScript, Next.js
